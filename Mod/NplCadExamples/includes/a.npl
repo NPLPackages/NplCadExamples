@@ -1,0 +1,12 @@
+--[[
+Title:  includes/a.npl
+Author(s):  leio
+Date:  2017/3/13
+Desc:  
+testing include file.
+]]
+color("red");
+union();
+cube();
+include("b/b.npl");
+

@@ -1,0 +1,10 @@
+--[[
+Title:  includes/b/b.npl
+Author(s):  leio
+Date:  2017/3/13
+Desc:  
+testing include file.
+]]
+sphere();
+include("c.npl");
+
