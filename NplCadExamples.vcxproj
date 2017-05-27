@@ -23,6 +23,8 @@
     <None Include="Mod\NplCadExamples\includes\b\b.npl" />
     <None Include="Mod\NplCadExamples\includes\c.npl" />
     <None Include="Mod\NplCadExamples\parameter_defines.npl" />
+    <None Include="Mod\NplCadExamples\rectangular_extrude.lua" />
+    <None Include="Mod\NplCadExamples\rotate_extrude.lua" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{9683C0B0-51B4-4AB6-A687-1ACEB57031F4}</ProjectGuid>

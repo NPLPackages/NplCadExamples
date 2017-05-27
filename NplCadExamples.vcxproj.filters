@@ -27,5 +27,11 @@
     <None Include="Mod\NplCadExamples\includes\b\b.npl">
       <Filter>Mod\NplCadExamples\includes\b</Filter>
     </None>
+    <None Include="Mod\NplCadExamples\rectangular_extrude.lua">
+      <Filter>Mod\NplCadExamples</Filter>
+    </None>
+    <None Include="Mod\NplCadExamples\rotate_extrude.lua">
+      <Filter>Mod\NplCadExamples</Filter>
+    </None>
   </ItemGroup>
 </Project>
