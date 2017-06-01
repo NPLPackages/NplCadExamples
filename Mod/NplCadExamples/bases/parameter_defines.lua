@@ -1,5 +1,5 @@
 --[[
-Title:  parameter_defines.npl
+Title:  parameter_defines.lua
 Author(s):  leio
 Date:  2017/3/13
 Desc:  

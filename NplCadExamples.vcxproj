@@ -19,12 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Mod\NplCadExamples\includes\a.npl" />
-    <None Include="Mod\NplCadExamples\includes\b\b.npl" />
-    <None Include="Mod\NplCadExamples\includes\c.npl" />
-    <None Include="Mod\NplCadExamples\parameter_defines.npl" />
-    <None Include="Mod\NplCadExamples\rectangular_extrude.lua" />
-    <None Include="Mod\NplCadExamples\rotate_extrude.lua" />
+    <None Include="Mod\NplCadExamples\bases\parameter_defines.lua" />
+    <None Include="Mod\NplCadExamples\bases\test_primitive2d.lua" />
+    <None Include="Mod\NplCadExamples\bases\test_primitive3d.lua" />
+    <None Include="Mod\NplCadExamples\bases\test_transform3d.lua" />
+    <None Include="Mod\NplCadExamples\extrude\test_linear_extrude.lua" />
+    <None Include="Mod\NplCadExamples\extrude\test_rectangular_extrude.lua" />
+    <None Include="Mod\NplCadExamples\extrude\test_rotate_extrude.lua" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{9683C0B0-51B4-4AB6-A687-1ACEB57031F4}</ProjectGuid>

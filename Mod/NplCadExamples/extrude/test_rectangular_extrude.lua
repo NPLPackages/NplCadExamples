@@ -1,5 +1,5 @@
  --[[
-Title:  rectangular_extrude.lua
+Title:  test_rectangular_extrude.lua
 Author(s):  leio
 Date:  2017/5/27
 Desc:  

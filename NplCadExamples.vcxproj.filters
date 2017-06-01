@@ -10,28 +10,34 @@
     <Filter Include="Mod\NplCadExamples\includes">
       <UniqueIdentifier>{15ec6cf7-23b6-44a2-a1a9-c2c399e9a33d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Mod\NplCadExamples\includes\b">
-      <UniqueIdentifier>{aae643b3-e5da-45a1-9ac5-b330e6ee0bc8}</UniqueIdentifier>
+    <Filter Include="Mod\NplCadExamples\extrude">
+      <UniqueIdentifier>{f2165dab-2665-4f07-82d4-d412ca3217ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mod\NplCadExamples\bases">
+      <UniqueIdentifier>{5bf2b987-f068-4541-b9dd-8bcffb0eeaa0}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Mod\NplCadExamples\parameter_defines.npl">
-      <Filter>Mod\NplCadExamples</Filter>
+    <None Include="Mod\NplCadExamples\bases\test_primitive3d.lua">
+      <Filter>Mod\NplCadExamples\bases</Filter>
     </None>
-    <None Include="Mod\NplCadExamples\includes\a.npl">
-      <Filter>Mod\NplCadExamples\includes</Filter>
+    <None Include="Mod\NplCadExamples\bases\test_primitive2d.lua">
+      <Filter>Mod\NplCadExamples\bases</Filter>
     </None>
-    <None Include="Mod\NplCadExamples\includes\c.npl">
-      <Filter>Mod\NplCadExamples\includes</Filter>
+    <None Include="Mod\NplCadExamples\extrude\test_linear_extrude.lua">
+      <Filter>Mod\NplCadExamples\extrude</Filter>
     </None>
-    <None Include="Mod\NplCadExamples\includes\b\b.npl">
-      <Filter>Mod\NplCadExamples\includes\b</Filter>
+    <None Include="Mod\NplCadExamples\extrude\test_rectangular_extrude.lua">
+      <Filter>Mod\NplCadExamples\extrude</Filter>
     </None>
-    <None Include="Mod\NplCadExamples\rectangular_extrude.lua">
-      <Filter>Mod\NplCadExamples</Filter>
+    <None Include="Mod\NplCadExamples\extrude\test_rotate_extrude.lua">
+      <Filter>Mod\NplCadExamples\extrude</Filter>
     </None>
-    <None Include="Mod\NplCadExamples\rotate_extrude.lua">
-      <Filter>Mod\NplCadExamples</Filter>
+    <None Include="Mod\NplCadExamples\bases\test_transform3d.lua">
+      <Filter>Mod\NplCadExamples\bases</Filter>
+    </None>
+    <None Include="Mod\NplCadExamples\bases\parameter_defines.lua">
+      <Filter>Mod\NplCadExamples\bases</Filter>
     </None>
   </ItemGroup>
 </Project>
