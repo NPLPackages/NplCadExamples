@@ -39,5 +39,8 @@
     <None Include="Mod\NplCadExamples\bases\parameter_defines.lua">
       <Filter>Mod\NplCadExamples\bases</Filter>
     </None>
+    <None Include="Mod\NplCadExamples\bases\test_group.lua">
+      <Filter>Mod\NplCadExamples\bases</Filter>
+    </None>
   </ItemGroup>
 </Project>
