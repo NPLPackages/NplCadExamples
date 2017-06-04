@@ -7,9 +7,6 @@
     <Filter Include="Mod\NplCadExamples">
       <UniqueIdentifier>{618823e8-2559-415b-acbb-896744ffb7d5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Mod\NplCadExamples\includes">
-      <UniqueIdentifier>{15ec6cf7-23b6-44a2-a1a9-c2c399e9a33d}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Mod\NplCadExamples\extrude">
       <UniqueIdentifier>{f2165dab-2665-4f07-82d4-d412ca3217ee}</UniqueIdentifier>
     </Filter>
@@ -41,6 +38,9 @@
     </None>
     <None Include="Mod\NplCadExamples\bases\test_group.lua">
       <Filter>Mod\NplCadExamples\bases</Filter>
+    </None>
+    <None Include="Mod\NplCadExamples\dirtbike.lua">
+      <Filter>Mod\NplCadExamples</Filter>
     </None>
   </ItemGroup>
 </Project>
