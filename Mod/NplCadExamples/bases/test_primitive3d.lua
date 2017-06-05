@@ -36,6 +36,18 @@ push();
     translate({21,0,0},cylinder({ from = {0,0,0}, to = {0,0,10}, r1 = 1, r2 = 2, fn = 50, }));
 pop();
 translate({0,0,15});
+push()
+    color("cyan");
+    torus();                    -- ri = 1, ro = 4;  
+    translate({3,0,0},torus({ ri = 1.5, ro= 3 }));
+    translate({5,0,0},torus({ ri = 0.2 }));
+
+    translate({10,0,0},torus({ fni = 4 }));           -- make inner circle fn = 4 => square
+    translate({15,0,0},torus({ fni = 4,roti = 45 }));   -- rotate inner circle, so flat is top/bottom
+    translate({20,0,0},torus({ fni = 4,fno = 4,roti = 45 }));
+    translate({25,0,0},torus({ fni = 4,fno = 5,roti = 45 }));
+pop();
+translate({0,0,10});
 push();
     color("brown");
     polyhedron({
