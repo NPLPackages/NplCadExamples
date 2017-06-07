@@ -42,5 +42,8 @@
     <None Include="Mod\NplCadExamples\dirtbike.lua">
       <Filter>Mod\NplCadExamples</Filter>
     </None>
+    <None Include="Mod\NplCadExamples\bases\test_text.lua">
+      <Filter>Mod\NplCadExamples\bases</Filter>
+    </None>
   </ItemGroup>
 </Project>

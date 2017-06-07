@@ -23,6 +23,7 @@
     <None Include="Mod\NplCadExamples\bases\test_group.lua" />
     <None Include="Mod\NplCadExamples\bases\test_primitive2d.lua" />
     <None Include="Mod\NplCadExamples\bases\test_primitive3d.lua" />
+    <None Include="Mod\NplCadExamples\bases\test_text.lua" />
     <None Include="Mod\NplCadExamples\bases\test_transform3d.lua" />
     <None Include="Mod\NplCadExamples\dirtbike.lua" />
     <None Include="Mod\NplCadExamples\extrude\test_linear_extrude.lua" />
